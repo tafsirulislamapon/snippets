@@ -17,4 +17,5 @@ copy the file you need into your project.
 | `formatCurrency` | Minor units to a localised currency string |
 | `formatRelativeTime` | "3 hours ago", "in 2 days" |
 | `safeJsonParse` | JSON.parse with a fallback instead of a throw |
+| `copyToClipboard` | Clipboard write with a legacy fallback |
 | `pick` / `omit` | Narrow an object to, or away from, a set of keys |
